@@ -6,6 +6,8 @@ import About from "./About";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
+const testVariable = 1;
+
 const Routing = () => {
   return (
     <Router>
